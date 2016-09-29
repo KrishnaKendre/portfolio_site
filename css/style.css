@@ -1,0 +1,62 @@
+body {
+    color: #2d3c49;
+    font-weight: 300;
+}
+
+img, embed, object, video {
+    max-width: 100%;
+}
+
+nav a, button {
+    min-width: 48px;
+    min-height: 48px;
+} 
+
+.border {
+    color: #7d97ad; 
+    border-bottom: solid;
+}
+
+.text-muted {
+    color: #7d97ad;
+}
+
+.text-thin {
+    font-weight: 100;
+}
+
+
+.title-super {
+    font-size: 60px;
+}
+
+.title-logo {
+    margin-top: 20px;
+    width: 100px;
+    height: 100px;
+}
+
+.bottom-footer {
+    padding-top: 50px;
+}
+
+#main-image {
+    width: 1140px;
+    height: 350px;
+    padding: 10px;
+}
+
+#movie-app {
+    width: 555px;
+    height: 350px;
+}
+
+#website {
+    width: 555px;
+    height: 350px;
+}
+
+#todoapp {
+    width: 555px;
+    height: 350px;
+}
