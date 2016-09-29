@@ -1,2 +1,2 @@
 # portfolio_site
-A show case of my programming projects. 
+A website to show case my programming projects. 
